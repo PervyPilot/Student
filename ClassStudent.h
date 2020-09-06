@@ -49,6 +49,7 @@ void Student::SetAge(int age)
     } else {
         this->age = age;
     }
+    //this->age = age;
 }
 
 int Student::GetAge()
